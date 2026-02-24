@@ -3,7 +3,7 @@
   <h1>Hi, I'm Mohammed Al Rashadi 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+;Java+%7C+C%2B%2B+%7C+Python;Learning+AI+%26+Machine+Learning;Building+projects+and+improving+every+day"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+;Java+%7C+C%2B%2B+%7C++;Learning+AI+%26+Machine+Learning;Building+projects+and+improving+every+day"
     alt="Typing SVG"
   />
 
