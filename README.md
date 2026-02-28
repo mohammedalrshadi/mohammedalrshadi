@@ -1,89 +1,110 @@
 <div align="center">
 
-  <h1>Hi, I'm Mohammed Al Rashadi 👋</h1>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+;Java+%7C+C%2B%2B+%7C++;Learning+AI+%26+Machine+Learning;Building+projects+and+improving+every+day"
-    alt="Typing SVG"
-  />
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/mohammedalrshadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-mohamedalrashadi-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/mohamedalrashadi">
-    <img src="https://img.shields.io/badge/GitHub-mohamedalrashadi-black?style=for-the-badge&logo=github" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Al-Rashdi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%40%20UTM%20MJIIT%2C%20Malaysia&descAlignY=58&descColor=a78bfa" />
 
 </div>
 
 ---
 
-## 🎓 About Me
+<div align="center">
 
-- 📍 Based in **Malaysia**
-- 🎯 Software Engineering student at **MJIIT - UTM**
-- 💻 Learning **Python**, **Java**, **C++**, **JavaScript**, and **SQL**
-- 🌱 Interested in **AI/ML**, **Web Development**, and **Clean Code**
-- 🎯 Goal: Build 10+ projects and master Data Structures & Algorithms
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Al--Rashdi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedalrshadi/)
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedalrashadi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedalrashadi)
+![Visitor Count](https://komarev.com/ghpvc/?username=mohamedalrashadi&style=for-the-badge&color=7c3aed)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages:** Python • Java • C++ • JavaScript • SQL
+```cpp
+Student mohammad = {
+    .university  = "MJIIT - UTM, Kuala Lumpur, Malaysia",
+    .degree      = "Bachelor of Software Engineering",
+    .year        = "Year 2 — Semester 3 incoming",
+    .focus       = "C++, Software Design, Cross-Platform Development",
+    .goal        = "Build real projects. Land a great internship. Never stop learning."
+};
+```
 
-**Tools:** Git • GitHub • VS Code • IntelliJ • MySQL • Linux
+---
 
-**Learning:** React • Node.js • TensorFlow • Docker
+## 🛠️ Skills & Tools
+
+**Strong:**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Currently Learning:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Next Up:**
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 🗺️ C++ Roadmap — In Progress
+
+> One language. Mastered deeply. That's the goal.
+
+| Level | Topic | Status |
+|-------|-------|--------|
+| 1 | C++ Basics — Variables, I/O, Control Flow, Functions | 🔄 In Progress |
+| 2 | Pointers & Memory Management | ⏳ Up Next |
+| 3 | Object-Oriented Programming | ⏳ Pending |
+| 4 | Standard Template Library (STL) | ⏳ Pending |
+| 5 | Data Structures | ⏳ Pending |
+| 6 | Algorithms | ⏳ Pending |
+| 7 | Advanced C++ | ⏳ Pending |
+| 8 | Modern C++ (C++17/20) | ⏳ Pending |
+| 9 | Competitive Programming | ⏳ Pending |
+| 10 | Projects | 🔄 Building alongside each level |
+
+---
+
+## 📂 Repositories
+
+| Repo | Description | Status |
+|------|-------------|--------|
+| [⭐ C++](https://github.com/mohamedalrashadi/Cpp) | C++ full roadmap — from basics to competitive programming | 🔄 Active |
+| [Database](https://github.com/mohamedalrashadi/Database) | SQL fundamentals and database projects | 🔄 Active |
+| [Python](https://github.com/mohamedalrashadi/Python) | Python — starting from zero | ⏳ Coming Soon |
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamedalrashadi&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=tokyonight&hide_border=true)
 
-
-
----
-
-## 📂 My Repositories
-
-- **[Python](https://github.com/mohamedalrashadi/Python)** - Python programming exercises
-- **[Java](https://github.com/mohamedalrashadi/Java)** - Java fundamentals and OOP
-- **[C++](https://github.com/mohamedalrashadi/Cpp)** - C++ programming ⭐ 1 Star!
-- **[JavaScript](https://github.com/mohamedalrashadi/Javascript)** - Web development practice
-- **[Database](https://github.com/mohamedalrashadi/Database)** - SQL projects
-- **[C Programming](https://github.com/mohamedalrashadi/coding)** - C fundamentals
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Master Python, Java, and C++
-- 🔄 Build 10+ complete projects
-- 🔄 Solve 100 LeetCode problems
-- 📅 Learn Web Development (React + Node.js)
-- 📅 Start Machine Learning journey
-- 📅 Contribute to open source
-
----
-
-## 📫 Get in Touch
-
-
-- **LinkedIn:** [Mohammed Al Rashadi](https://linkedin.com/in/mohamedalrashadi)
-- **GitHub:** [@mohamedalrashadi](https://github.com/mohamedalrashadi)
-
-💡 **Open to collaboration and learning opportunities!**
+- 🔄 Complete the full C++ roadmap
+- 🔄 Build 3 portfolio-ready projects
+- 📅 Start Python for data analysis
+- 📅 Land a software engineering internship
+- 📅 Solve 50 LeetCode problems
 
 ---
 
 <div align="center">
-  <i>⭐ "Every expert was once a beginner. Keep coding, keep learning!" ⭐</i>
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=mohamedalrashadi&color=blueviolet)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+*"You don't rise to the level of your goals. You fall to the level of your systems."*
+
 </div>
