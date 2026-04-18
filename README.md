@@ -19,12 +19,8 @@
 
 ```yaml
 name        : Mohammed Al-Rashadi
-role        : Software Engineering Student
-university  : Universiti Teknologi Malaysia (UTM KL) — MJIIT
-status      : Undergraduate | Building in Public
-languages   : Arabic | English  | Malay 
-interests   : Web Development · Software Design · Problem Solving
-currently   : Learning Full-Stack Web Dev + SE Design Principles
+role        : Software Engineering Student @ UTM KL — MJIIT
+currently   : Learning Full-Stack Web Dev + SE Design
 motto       : "Write code. Break things. Learn. Repeat."
 ```
 
